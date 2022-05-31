@@ -1,0 +1,6 @@
+framework module AvalonUIKit {
+  umbrella header "AvalonUIKit.h"
+
+  export *
+  module * { export * }
+}
